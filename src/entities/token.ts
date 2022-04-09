@@ -66,10 +66,10 @@ export const WETH = {
   ),
   [ChainId.RINKEBY]: new Token(
     ChainId.RINKEBY,
-    '0x',
+    '0xc778417E063141139Fce010982780140Aa0cD5Ab',
     18,
-    'WFTM',
-    'Wrapped FTM'
+    'WETH',
+    'Wrapped ETH'
   ),
   [ChainId.BSC]: new Token(
     ChainId.MAINNET,
